@@ -41,3 +41,11 @@ This project is broken down into 5 steps:
 | **OrderCount** | Total number of orders has been places in last month |
 | **DaySinceLastOrder** | Day Since last order by customer |
 | **CashbackAmount** | Average cashback in last month |
+
+
+As shown from the records above dataset includes a range of features from customer demographics to their purchasing behaviors. Key attributes include:
+
+- Customer Demographics: Gender, City Tier, Marital Status.
+- Shopping Preferences: Preferred Login Device, Preferred Payment Mode, Preferred Order Categories.
+- Engagement Metrics: Hours Spent on App, Number of Devices Registered, Satisfaction Score.
+- Transactional Behavior: Order Amount Hike from Last Year, Number of Addresses, Frequency of Coupon Usage
